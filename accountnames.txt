@@ -1,0 +1,48 @@
+Name: abdelhamed
+Age: 20.00
+Personal ID: 302909
+Phone Number: 100369937
+Username: abdelhamedahmed20
+Password: 1234
+Balance: 3000.00
+-----------------------
+Name: tarek
+Age: 40.00
+Personal ID: 302909
+Phone Number: 1003755
+Username: tarekrad
+Password: 3345
+Balance: 1000.00
+-----------------------
+Name: nti
+Age: 20.00
+Personal ID: 302908
+Phone Number: 10047586
+Username: nti_embedded
+Password: 5567
+Balance: 3000.00
+-----------------------
+Name: mohamed
+Age: 30.00
+Personal ID: 3029080
+Phone Number: 10034567
+Username: mohamedahmed10
+Password: 1234
+Balance: 2000.00
+-----------------------
+Name: ahmed
+Age: 20.00
+Personal ID: 305996
+Phone Number: 1004586
+Username: ahmedmohamed
+Password: 1236
+Balance: 5000.00
+-----------------------
+Name: m5
+Age: 30.00
+Personal ID: 20394
+Phone Number: 10035678
+Username: mohamed
+Password: 989
+Balance: 3000.00
+-----------------------
